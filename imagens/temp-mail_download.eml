@@ -1,0 +1,42 @@
+Received: from a8-13.smtp-out.amazonses.com (a8-13.smtp-out.amazonses.com [54.240.8.13])
+	by node2 (Haraka/2.8.16) with ESMTP id 559F37E0-1534-4DF9-A2D1-7F62926451F7.1
+	envelope-from <010001642f15bfd0-dd867851-e58b-49dd-ac4a-bd3cc0a817b5-000000@amazonses.com>;
+	Sat, 23 Jun 2018 23:55:31 +0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=ug7nbtf4gccmlpwj322ax3p6ow6yfsug; d=amazonses.com; t=1529798311;
+	h=Content-Type:MIME-Version:Content-Transfer-Encoding:Subject:From:To:Date:Message-ID:Feedback-ID;
+	bh=j4CVlryhs/bHNMSG153kpp2kYvqDeCLnTz9spYv0qLU=;
+	b=RxkigJvjBXseDEn7CO47xoMN2VvtwAa/WiHWVALsaGPfYTDktgZ/sFsyBSJyA37n
+	kLsa6GJ0LQd6e5axE4JosfbYW2Zr2D0gWCBKZ3T01M2o+PPVK0SC/aV09+u9Kx4/GkD
+	UvTtEdxNNp8QLtGtE4A/Sx9m3ay2q/eIsLd8lNvE=
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: [freesound] activation link.
+From: Freesound NoReply <noreply@freesound.org>
+To: pasawu@creazionisa.com
+Date: Sat, 23 Jun 2018 23:58:31 +0000
+Message-ID: <010001642f15bfd0-dd867851-e58b-49dd-ac4a-bd3cc0a817b5-000000@email.amazonses.com>
+X-SES-Outgoing: 2018.06.23-54.240.8.13
+Feedback-ID: 1.us-east-1.1E27eNRK2ofyXxW3gI7gic6pmR/YOcmT1L0Yc66t/YI=:AmazonSES
+
+Hello there pasawu,
+
+
+Thank you for signing up at Freesound!
+
+In order to activate your Freesound account, please click this link:
+
+<https://freesound.org/home/activate/pasawu/f991a085/>
+
+If for some reason this fails, try copy-pasting the complete link into you browser. Some mail clients break up long lines, or do strange things to URL's!
+
+
+
+kindest,
+
+
+ - The Freesound Mail Robot!
+
+PS: replies to this email address will end up in the garbage can, please see the message for further details!
+
